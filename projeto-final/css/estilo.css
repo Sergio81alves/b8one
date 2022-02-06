@@ -1,0 +1,146 @@
+body{
+    background: #FFFFFF ;
+}
+.input-group{
+    margin-top: 2px;
+}
+.nave{
+    background: #030303;
+    
+}
+.nave a {
+    color: #FFFFFF;
+    background: #030303;
+}
+.pao{
+    color: #40464D;
+    
+}
+#pao{
+    padding: 5px;
+    height: 35px;
+}
+header ul li {
+    list-style-type: none;
+    display: inline-block;
+}
+#pao ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+#principal{
+    border-top: 1px solid #ddd9d9;
+    border-bottom: 1px solid #ddd9d9;
+}
+
+.apple{
+    border: 2px dotted rgb(127, 241, 232);
+}
+#escolhas button {
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 300px;
+   
+}
+
+#escolhas button:hover {
+    cursor: pointer;
+    border: 1px solid black;
+}
+.Screen{
+    margin-top: 10px;
+}
+.concatenar{
+    border: 1px  solid #40464D;
+    border-radius: 5px;
+    width: 80px;
+    margin: 5px;
+    margin-left: 2px;
+    text-align: center;
+    display: inline-block;
+    
+}
+.concatenar button{
+    border: none;
+    padding: 0 8px;
+}
+.pagar{
+    padding: 10px;
+}
+.cart{
+    background: #40B25C;
+}
+.cart, .buy{
+    height: 55px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+}
+.buy{
+    margin-top: 2px;
+  background: #E36305;  
+}
+.see{
+    
+    display: inline-block;
+}
+.descri{
+    width: 150px;
+    font-size: x-small;
+    padding: 1px 6px;
+}
+
+.textos{
+    margin: 20px 0;
+    text-align:  left;
+} 
+.get{
+    height: 112px;
+    background: #40B25C;
+    color: #FFFFFF;
+    
+    
+}
+
+.news{
+    background: #40B25C;
+    color: #FFFFFF;
+    font-size: 32px;
+}
+footer{
+    background: #030303;
+    color: #FFFFFF;
+    padding: 50px 0 20px 0;
+}
+footer ul li{
+    background: #030303;
+}
+footer h5{
+    margin: 15px;
+    background: #030303;
+    color: #FFFFFF;
+}
+.cartao{
+    margin: 25px 10px;
+}
+.pe{
+    background: #030303;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.sitemap ul li {
+    color: #FFFFFF;
+    list-style-type: none;
+    display: inline-block;   
+}
+.sitemap{
+    margin: 45px;
+}
+#pe{
+    font-size: 18px;
+}
+
