@@ -1,0 +1,12 @@
+/*header*/
+.header{
+    display: flex;
+    align-items: center;
+    padding: 10px 32px 10px 16px;
+}
+
+.menu-user-profile--avatar{
+    width: 40px;
+    border-radius: 39px;
+  
+}

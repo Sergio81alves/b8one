@@ -1,0 +1,25 @@
+body {
+    background: #142159;
+    
+}
+section{
+    background: white;
+    width: 500px;
+    margin: auto;
+    margin-top: 20vh;
+    padding: 48px;
+    border-radius: 15px;
+}
+.entrar{
+    background: #425DC7;
+    color: white;
+}
+.senha{
+    position: relative;
+}
+.eye {
+    position: absolute;
+    cursor: pointer;
+    right: 5px;
+    bottom: 10px;
+}
