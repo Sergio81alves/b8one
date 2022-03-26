@@ -5,3 +5,7 @@ Neste pequeno curso fiz alguns projetos. como: projeto-final para passar de fase
 <img src="https://github.com/Sergio81alves/b8one/blob/main/img/Prova%20Academi.png"/>
 
 <img src="https://github.com/Sergio81alves/b8one/blob/main/img/Prova.png"/>
+
+<img src="https://github.com/Sergio81alves/b8one/blob/main/img/Prova%20Academi%20-%20mob.png"/>
+
+<img src="https://github.com/Sergio81alves/b8one/blob/main/img/Prova%20Academi%20-%20mob%20(2).png"/>
